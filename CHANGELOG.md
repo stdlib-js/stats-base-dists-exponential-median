@@ -2,6 +2,63 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2024-12-21)
+
+<section class="features">
+
+### Features
+
+-   [`9d4ff4d`](https://github.com/stdlib-js/stdlib/commit/9d4ff4d2ea4c7b3244b3855124790aef5f526f41) - add C implementation for `stats/base/dists/exponential/median` [(#4049)](https://github.com/stdlib-js/stdlib/pull/4049)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#3586](https://github.com/stdlib-js/stdlib/issues/3586)
+
+</section>
+
+<!-- /.issues -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`9d4ff4d`](https://github.com/stdlib-js/stdlib/commit/9d4ff4d2ea4c7b3244b3855124790aef5f526f41) - **feat:** add C implementation for `stats/base/dists/exponential/median` [(#4049)](https://github.com/stdlib-js/stdlib/pull/4049) _(by Prashant Kumar Yadav, Philipp Burckhardt)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 2 people contributed to this release. Thank you to the following contributors:
+
+-   Philipp Burckhardt
+-   Prashant Kumar Yadav
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.2">
 
 ## 0.2.2 (2024-07-27)
