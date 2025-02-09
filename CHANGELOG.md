@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-01-12)
+## Unreleased (2025-02-09)
 
 <section class="features">
 
@@ -34,6 +34,8 @@ This release closes the following issue:
 
 <details>
 
+-   [`e61b1de`](https://github.com/stdlib-js/stdlib/commit/e61b1dee3334bacf30d213de5b5f1c7868c0753b) - **docs:** clean-up of C docstrings _(by Philipp Burckhardt)_
+-   [`3250d4f`](https://github.com/stdlib-js/stdlib/commit/3250d4fb004a417dfd58fdc5a58d7efabc0f2b6e) - **bench:** refactor random number generation in `stats/base/dists/exponential` [(#4917)](https://github.com/stdlib-js/stdlib/pull/4917) _(by Karan Anand)_
 -   [`f3df15f`](https://github.com/stdlib-js/stdlib/commit/f3df15f118d563573f27d2d2b96e35b842f05a18) - **chore:** directly draw from the desired distribution instead of adding constants _(by Philipp Burckhardt)_
 -   [`603c766`](https://github.com/stdlib-js/stdlib/commit/603c76686fc8de480628e5b96efd9733b1f059b5) - **test:** only conditionally run tests _(by Philipp Burckhardt)_
 -   [`318f280`](https://github.com/stdlib-js/stdlib/commit/318f28057bf00d910a656c4f315b8de17f89d3b5) - **chore:** minor clean-up _(by Philipp Burckhardt)_
@@ -49,8 +51,9 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
+-   Karan Anand
 -   Philipp Burckhardt
 -   Prashant Kumar Yadav
 
